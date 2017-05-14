@@ -1,0 +1,12 @@
+*.class
+out/
+target/
+lib/
+*hs_err_pid*
+.idea/
+*.iml
+*.iws
+logs
+.classpath
+.project
+.settings
